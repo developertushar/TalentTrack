@@ -1,0 +1,16 @@
+div.dark-row
+{
+  background-color: #085dad;
+
+}
+
+
+div#dark-row-rgb{
+  background-color: rgba(0, 0, 0, 0.5);
+ }
+
+
+ div.select{
+  background-color: #085dad;
+
+ }
